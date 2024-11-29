@@ -44,5 +44,5 @@ def demonstrar_veiculos():
         print("Tipo de Combustível: " + veiculo.tipo_combustivel())
         print("Capacidade de Passageiros: " + str(veiculo.capacidade_passageiros()))
         
-
 demonstrar_veiculos()
+
